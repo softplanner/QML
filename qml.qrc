@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.ui.qml</file>
+        <file>ui/bottomBar/BottomBar.qml</file>
+        <file>ui/RightScreen/RightScreen.qml</file>
+        <file>ui/LeftScreen/LeftScreen.qml</file>
+    </qresource>
+</RCC>
